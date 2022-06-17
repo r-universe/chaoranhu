@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "coga"]
+	path = coga
+	url = https://github.com/chaoranhu/coga
+	shallow = true
+	registered = true
+[submodule "smam"]
+	path = smam
+	url = https://github.com/chaoranhu/smam
+	shallow = true
+	registered = true
